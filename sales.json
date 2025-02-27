@@ -1,0 +1,12 @@
+[
+  {"transactionId":1,"accountHolder":"Alice Johnson","transactionType":"SALE","amount":1500.00,"currency":"USD","date":"2025-02-28"},
+  {"transactionId":2,"accountHolder":"Bob Smith","transactionType":"SALE","amount":1200.50,"currency":"USD","date":"2025-02-27"},
+  {"transactionId":3,"accountHolder":"Charlie Brown","transactionType":"SALE","amount":450.75,"currency":"USD","date":"2025-02-26"},
+  {"transactionId":4,"accountHolder":"Diana Prince","transactionType":"SALE","amount":750.00,"currency":"USD","date":"2025-02-25"},
+  {"transactionId":5,"accountHolder":"Ethan Hunt","transactionType":"SALE","amount":320.00,"currency":"USD","date":"2025-02-24"},
+  {"transactionId":6,"accountHolder":"Fiona Gallagher","transactionType":"SALE","amount":120.25,"currency":"USD","date":"2025-02-23"},
+  {"transactionId":7,"accountHolder":"George Costanza","transactionType":"SALE","amount":980.00,"currency":"USD","date":"2025-02-22"},
+  {"transactionId":8,"accountHolder":"Hannah Montana","transactionType":"SALE","amount":600.00,"currency":"USD","date":"2025-02-21"},
+  {"transactionId":9,"accountHolder":"Ian Malcolm","transactionType":"SALE","amount":250.30,"currency":"USD","date":"2025-02-20"},
+  {"transactionId":10,"accountHolder":"Jack Sparrow","transactionType":"SALE","amount":850.00,"currency":"USD","date":"2025-02-19"}
+]

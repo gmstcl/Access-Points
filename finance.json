@@ -1,0 +1,12 @@
+[
+  {"transactionId":1,"accountHolder":"Alice Johnson","transactionType":"DEPOSIT","amount":5000.00,"currency":"USD","date":"2025-02-28"},
+  {"transactionId":2,"accountHolder":"Bob Smith","transactionType":"WITHDRAWAL","amount":1200.50,"currency":"USD","date":"2025-02-27"},
+  {"transactionId":3,"accountHolder":"Charlie Brown","transactionType":"TRANSFER","amount":200.75,"currency":"USD","date":"2025-02-26"},
+  {"transactionId":4,"accountHolder":"Diana Prince","transactionType":"DEPOSIT","amount":750.00,"currency":"USD","date":"2025-02-25"},
+  {"transactionId":5,"accountHolder":"Ethan Hunt","transactionType":"WITHDRAWAL","amount":300.00,"currency":"USD","date":"2025-02-24"},
+  {"transactionId":6,"accountHolder":"Fiona Gallagher","transactionType":"TRANSFER","amount":90.25,"currency":"USD","date":"2025-02-23"},
+  {"transactionId":7,"accountHolder":"George Costanza","transactionType":"DEPOSIT","amount":1500.00,"currency":"USD","date":"2025-02-22"},
+  {"transactionId":8,"accountHolder":"Hannah Montana","transactionType":"WITHDRAWAL","amount":500.00,"currency":"USD","date":"2025-02-21"},
+  {"transactionId":9,"accountHolder":"Ian Malcolm","transactionType":"TRANSFER","amount":250.30,"currency":"USD","date":"2025-02-20"},
+  {"transactionId":10,"accountHolder":"Jack Sparrow","transactionType":"DEPOSIT","amount":1000.00,"currency":"USD","date":"2025-02-19"}
+]
